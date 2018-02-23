@@ -6,3 +6,4 @@
 * Hashketball Review
 * [Hashes and APIs](https://www.youtube.com/watch?v=Jqmo0ZpCSh4) | [Code](https://github.com/learn-co-students/web-022018/tree/master/1_hashes_and_apis)
 * [Intro to Object Oriented in Ruby](https://youtu.be/Zk37IdHYz2E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/2-ruby-oo)
+* [OO Many to One](https://www.youtube.com/watch?v=69PMa8I_P7E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/3-oo-many-to-one)
