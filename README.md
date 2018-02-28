@@ -5,10 +5,10 @@
 ## Module 1
 
 * Hashketball Review
-* [Hashes and APIs](https://www.youtube.com/watch?v=Jqmo0ZpCSh4) | [Code](https://github.com/learn-co-students/web-022018/tree/master/1_hashes_and_apis)
-* [Intro to Object Oriented in Ruby](https://youtu.be/Zk37IdHYz2E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/2-ruby-oo)
-* [OO Many to One](https://www.youtube.com/watch?v=69PMa8I_P7E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/3-oo-many-to-one)
-* [OO Many to Many](https://www.youtube.com/watch?v=HYeNKfH70us) | [Code](https://github.com/learn-co-students/web-022018/tree/master/4-oo-many-to-many)
-* [Intro to SQL](https://youtu.be/24maeY3xe-c) | [Code](https://github.com/learn-co-students/web-022018/tree/master/5-intro-sql)
+* [Hashes and APIs](https://www.youtube.com/watch?v=Jqmo0ZpCSh4) | [Code](https://github.com/learn-co-students/web-022018/tree/master/01_hashes_and_apis)
+* [Intro to Object Oriented in Ruby](https://youtu.be/Zk37IdHYz2E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/02-ruby-oo)
+* [OO Many to One](https://www.youtube.com/watch?v=69PMa8I_P7E) | [Code](https://github.com/learn-co-students/web-022018/tree/master/03-oo-many-to-one)
+* [OO Many to Many](https://www.youtube.com/watch?v=HYeNKfH70us) | [Code](https://github.com/learn-co-students/web-022018/tree/master/04-oo-many-to-many)
+* [Intro to SQL](https://youtu.be/24maeY3xe-c) | [Code](https://github.com/learn-co-students/web-022018/tree/master/05-intro-sql)
 * [Intro to ORM part one](https://youtu.be/VxjhKGr_mHg) | [Code](https://github.com/learn-co-students/web-022018/tree/master/06-intro-to-orms)
 * [Intro to ORM part two](https://youtu.be/AiQKbVh5h-A) | [Code](https://github.com/learn-co-students/web-022018/tree/master/06-intro-to-orms)
