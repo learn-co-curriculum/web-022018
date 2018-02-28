@@ -13,3 +13,4 @@
 * [Intro to ORM part one](https://youtu.be/VxjhKGr_mHg) | [Code](https://github.com/learn-co-students/web-022018/tree/master/06-intro-to-orms)
 * [Intro to ORM part two](https://youtu.be/AiQKbVh5h-A) | [Code](https://github.com/learn-co-students/web-022018/tree/master/06-intro-to-orms)
 * [Dynamic ORM Part 1](https://youtu.be/96nzKjC1Wwk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/07-dynamic-orms)
+* [OO Review (code only)](https://github.com/learn-co-students/web-022018/tree/master/08-oo-review)
