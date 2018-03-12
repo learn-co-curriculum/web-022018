@@ -15,3 +15,6 @@
 * [Dynamic ORM Part 1](https://youtu.be/96nzKjC1Wwk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/07-dynamic-orms)
 * [OO Review (code only)](https://github.com/learn-co-students/web-022018/tree/master/08-oo-review)
 * [ActiveRecord](https://youtu.be/kO4fTpLq_b4) | [code only](https://github.com/learn-co-students/web-022018/tree/master/09-active-record)
+
+## Module 2
+1. [Rack & The Internet](https://youtu.be/TyTgGgMXJvs) | [Code](https://github.com/learn-co-students/web-022018/tree/master/10-rack)
