@@ -17,7 +17,8 @@
 * [ActiveRecord](https://youtu.be/kO4fTpLq_b4) | [code only](https://github.com/learn-co-students/web-022018/tree/master/09-active-record)
 
 ## Module 2
+
 1. [Rack & The Internet](https://youtu.be/TyTgGgMXJvs) | [Code](https://github.com/learn-co-students/web-022018/tree/master/10-rack)
 2. [MVC & Sinatra](https://youtu.be/xhwZ-p-tyVU) | [Code](https://github.com/learn-co-students/web-022018/tree/master/11-sinatra-mvc/bestbuy)
 3. [Sinatra Forms](https://youtu.be/Z0WkjcDG1kY) | [Code](https://github.com/learn-co-students/web-022018/tree/master/12-sinatra-forms/badreads)
-4. RESTful Routing | [Code](https://github.com/learn-co-students/web-022018/tree/master/13-sinatra-restful-routing-sushi)
+4. Sinatra RESTful Routing - Sushi [Part One](https://youtu.be/LDxcsTJSbdo) | [Code](https://github.com/learn-co-students/web-022018/tree/master/13-sinatra-restful-routing-sushi)
