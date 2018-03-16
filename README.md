@@ -23,4 +23,4 @@
 3. [Sinatra Forms](https://youtu.be/Z0WkjcDG1kY) | [Code](https://github.com/learn-co-students/web-022018/tree/master/12-sinatra-forms/badreads)
 4. Sinatra RESTful Routing - Sushi [Video Part One](https://youtu.be/LDxcsTJSbdo) | [Video Part Two](https://youtu.be/dADVwgMgv2c) | [Code](https://github.com/learn-co-students/web-022018/tree/master/13-sinatra-restful-routing-sushi)
 5. [Sinatra Forms 2](link_here) | [Code](https://github.com/learn-co-students/web-022018/tree/master/14-sinatra-forms-again/badreads)
-6. [Intro to Rails](https://youtu.be/I78iL9wgcE4) | [Code](https://github.com/learn-co-students/web-022018/tree/master/15-intro-to-rails/)
+6. [Intro to Rails](https://youtu.be/1CD5iniV_00) | [Code](https://github.com/learn-co-students/web-022018/tree/master/15-intro-to-rails/)
