@@ -25,4 +25,4 @@
 5. [Sinatra Forms 2](https://youtu.be/uxH527jfw3c) | [Code](https://github.com/learn-co-students/web-022018/tree/master/14-sinatra-forms-again/badreads)
 6. [Intro to Rails](https://youtu.be/1CD5iniV_00) | [Code](https://github.com/learn-co-students/web-022018/tree/master/15-intro-to-rails/)
 7. [Rails Forms & Validations](https://youtu.be/h4aJ3OFnNDk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/16-rails-forms/racetrack)
-8. Rails CRUD Airport App - [Video Part One](https://youtu.be/vh-X7I8dk0w) | [Code](https://github.com/learn-co-students/web-022018/tree/master/17-rails-crud-app-airport)
+8. Rails CRUD Airport App - [Video Part One](https://youtu.be/vh-X7I8dk0w) | [Video Part Two](https://youtu.be/f2-hRlRauMI) |  [Code](https://github.com/learn-co-students/web-022018/tree/master/17-rails-crud-app-airport)
