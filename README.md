@@ -27,3 +27,4 @@
 7. [Rails Forms & Validations](https://youtu.be/h4aJ3OFnNDk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/16-rails-forms/racetrack)
 8. Rails CRUD Airport App - [Video Part One](https://youtu.be/vh-X7I8dk0w) | [Video Part Two](https://youtu.be/f2-hRlRauMI) | [Video Part Three](https://youtu.be/WDNOu1exF8E) |  [Code](https://github.com/learn-co-students/web-022018/tree/master/17-rails-crud-app-airport)
 9. [Rails Auth](https://youtu.be/6amaCUiqmds) | [Code](https://github.com/learn-co-students/web-022018/tree/master/18-rails-auth/authapp)
+10. [RSpec & Test-Driven Development](https://youtu.be/j71EprlCDqE) | [Code](https://github.com/learn-co-students/web-022018/tree/master/19-intro-tdd)
