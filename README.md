@@ -32,3 +32,4 @@
 ## Module 3
 
 1. [Introduction to JavaScript](https://youtu.be/vGBnkrk453M) | [Code](https://github.com/learn-co-students/web-022018/tree/master/20-intro-javascript)
+2. [Functional Programming in Javascript](https://youtu.be/1lugvdkrBbQ) | [Code](https://github.com/learn-co-students/web-022018/tree/master/21-javascript-functional-programming)
