@@ -34,3 +34,4 @@
 1. [Introduction to JavaScript](https://youtu.be/vGBnkrk453M) | [Code](https://github.com/learn-co-students/web-022018/tree/master/20-intro-javascript)
 2. [Functional Programming in Javascript](https://youtu.be/1lugvdkrBbQ) | [Code](https://github.com/learn-co-students/web-022018/tree/master/21-javascript-functional-programming)
 3. [Object-Oriented JavaScript](https://www.youtube.com/watch?v=CRl-InpR2nk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/22-oo-js)
+4. [The DOM](https://www.youtube.com/watch?v=t8fanYQmLqQ&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/23-dom)
