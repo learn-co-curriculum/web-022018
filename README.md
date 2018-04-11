@@ -36,5 +36,5 @@
 3. [Object-Oriented JavaScript](https://www.youtube.com/watch?v=CRl-InpR2nk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/22-oo-js)
 4. [The DOM](https://www.youtube.com/watch?v=t8fanYQmLqQ&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/23-dom)
 5. [Events](https://youtu.be/CyxZ_2-DYf8) | [Code](https://github.com/learn-co-students/web-022018/tree/master/24-dom-events)
-6. [Fetch](https://www.youtube.com/watch?v=haE5LVXG4j0&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/24-fetch)
-7. [Organization](https://youtu.be/i-bVkiPNPP0) | [Code](https://github.com/learn-co-students/web-022018/tree/master/25-organization)
+6. [Fetch](https://www.youtube.com/watch?v=haE5LVXG4j0&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/25-fetch)
+7. [Organization](https://youtu.be/i-bVkiPNPP0) | [Code](https://github.com/learn-co-students/web-022018/tree/master/26-organization)
