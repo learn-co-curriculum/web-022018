@@ -42,3 +42,4 @@
 ## Module 4
 
 1. [Props and State](https://www.youtube.com/watch?v=D7NT2N3ZrjM) | [Code](https://github.com/sbal13/Props-and-State-web-022018)
+2. [More on Forms and Events](https://www.youtube.com/watch?v=EIq-42ehuCI)
