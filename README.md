@@ -36,4 +36,11 @@
 2. [Functional Programming in Javascript](https://youtu.be/1lugvdkrBbQ) | [Code](https://github.com/learn-co-students/web-022018/tree/master/21-javascript-functional-programming)
 3. [Object-Oriented JavaScript](https://www.youtube.com/watch?v=CRl-InpR2nk) | [Code](https://github.com/learn-co-students/web-022018/tree/master/22-oo-js)
 4. [The DOM](https://www.youtube.com/watch?v=t8fanYQmLqQ&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/23-dom)
-4. [The DOM - Event Listeners](https://youtu.be/CyxZ_2-DYf8) | [Code](https://github.com/learn-co-students/web-022018/tree/master/24-dom-events)
+5. [Events](https://youtu.be/CyxZ_2-DYf8) | [Code](https://github.com/learn-co-students/web-022018/tree/master/24-dom-events)
+6. [Fetch](https://www.youtube.com/watch?v=haE5LVXG4j0&feature=youtu.be) | [Code](https://github.com/learn-co-students/web-022018/tree/master/25-fetch)
+7. [Organization](https://youtu.be/i-bVkiPNPP0) | [Code](https://github.com/learn-co-students/web-022018/tree/master/26-organization)
+
+## Module 4
+
+1. [Props and State](https://www.youtube.com/watch?v=D7NT2N3ZrjM) | [Code](https://github.com/sbal13/Props-and-State-web-022018)
+2. [More on Forms and Events](https://www.youtube.com/watch?v=EIq-42ehuCI) | [Code](https://github.com/sbal13/Props-and-State-web-022018/tree/forms)
