@@ -47,4 +47,4 @@
 3. [Component Lifecycle](https://youtu.be/CNaJfzlcUPM) | [Code](https://github.com/sbal13/component-lifecycle-022018)
 4. [Hashketball Returns! Redux](https://www.youtube.com/watch?v=exrklgqS0Tk&feature=youtu.be) | [Code] (https://github.com/sbal13/hashketball-returns-web-022018)
 5. [Thunk and Combine Reducers](https://www.youtube.com/watch?v=fSlv1m_pK9w) | [Frontend Code (master branch)](https://github.com/sbal13/mecha-matchr-web-022018) / [Backend](https://github.com/sbal13/mecha-matchr-api-web-022018)
-6. [Auth]() | [Frontend Code (with_auth branch)](https://github.com/sbal13/mecha-matchr-web-022018/tree/with_auth) / [Backend](https://github.com/sbal13/mecha-matchr-api-web-022018)
+6. [Auth](https://youtu.be/qR95ROLyhko) | [Frontend Code (with_auth branch)](https://github.com/sbal13/mecha-matchr-web-022018/tree/with_auth) / [Backend](https://github.com/sbal13/mecha-matchr-api-web-022018)
